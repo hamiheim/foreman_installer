@@ -3,6 +3,14 @@
 Contains scripts to automated setup of foreman repos for disconnected systems
 as well as automate installation of foreman for both connected and disconnected systems.
 
+## Table of contents
+| Section |
+|-|
+| [Manifest] (Manifest) |
+| [Overview] (Overview) |
+| [Instructions - connected] (Connected) |
+| [Instructions - disconnected] (Disconnected) |
+
 ## Manifest
 
 | File | Required |
