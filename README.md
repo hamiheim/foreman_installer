@@ -6,10 +6,10 @@ as well as automate installation of foreman for both connected and disconnected 
 ## Table of contents
 | Section |
 |-|
-| [Manifest](#Manifest) |
-| [Overview](#Overview) |
-| [Instructions - connected](#Connected) |
-| [Instructions - disconnected](README.md#Disconnected) |
+| [Manifest](#manifest) |
+| [Overview](#overview) |
+| [Instructions - connected](#connected) |
+| [Instructions - disconnected](#disconnected) |
 
 ## Manifest
 
@@ -20,7 +20,7 @@ as well as automate installation of foreman for both connected and disconnected 
 
 ## Overview
 
-Foreman (https://docs.theforeman.org) is an infrastructure management service
+[Foreman](https://docs.theforeman.org) is an infrastructure management service
 to help automate installation and maintenance of Linux platforms.
 
 The automation in this repo will provide the ability to completely deploy foreman
