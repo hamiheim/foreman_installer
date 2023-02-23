@@ -8,8 +8,8 @@ as well as automate installation of foreman for both connected and disconnected 
 |-|
 | [Manifest](#manifest) |
 | [Overview](#overview) |
-| [Instructions - connected](#connected systems) |
-| [Instructions - disconnected](#disconnected systems) |
+| [Instructions - connected](#connected-systems) |
+| [Instructions - disconnected](#disconnected-systems) |
 
 ## Manifest
 
