@@ -9,7 +9,7 @@ as well as automate installation of foreman for both connected and disconnected 
 | [Manifest](#Manifest) |
 | [Overview](#Overview) |
 | [Instructions - connected](#Connected) |
-| [Instructions - disconnected](#Disconnected) |
+| [Instructions - disconnected](README.md#Disconnected) |
 
 ## Manifest
 
