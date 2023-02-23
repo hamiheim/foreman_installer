@@ -6,10 +6,10 @@ as well as automate installation of foreman for both connected and disconnected 
 ## Table of contents
 | Section |
 |-|
-| [Manifest] (Manifest) |
-| [Overview] (Overview) |
-| [Instructions - connected] (Connected) |
-| [Instructions - disconnected] (Disconnected) |
+| [Manifest](#Manifest) |
+| [Overview](#Overview) |
+| [Instructions - connected](#Connected) |
+| [Instructions - disconnected](#Disconnected) |
 
 ## Manifest
 
