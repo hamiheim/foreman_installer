@@ -342,10 +342,8 @@ def connected_install():
     # Errors may be encountered if modules are already enabled/disabled
     # These can be safely ignored. I will work on error handling later
     print(f"{tcolor.msg}Configuring DNF Modules...{tcolor.dflt}")
-    disable_module("postgresql:10")
-    disable_module("ruby:2.5")
-    enable_module("postgresql:12")
-    enable_module("ruby:2.7")
+    switch_module("postgresql:12")
+    switch_module("ruby:2.7")
     enable_module("katello:el8")
     enable_module("pulpcore:el8")
     print(f"{tcolor.ok}DNF Modules configured!{tcolor.dflt}")
